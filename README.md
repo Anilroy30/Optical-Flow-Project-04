@@ -52,7 +52,7 @@ text
 
 The screenshot below shows the green lines tracing the motion of detected points in real-time.
 
-![Output](output_labelling.png)
+![Output](output_labeling.png)
 
 ## Applications
 - Motion detection in videos
