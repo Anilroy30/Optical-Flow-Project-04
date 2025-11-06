@@ -22,19 +22,19 @@ Python 3.11 or later.
 ### Install Required Libraries
 pip install opencv-python numpy
 
-text
+
 
 ## How to Run
 
 1. Clone or download this repository and navigate to the folder:
 cd project-3
 
-text
+
 
 2. Run the script:
 python optical_flow.py
 
-text
+
 
 3. The webcam window will open. Move an object or your hand in front of the webcam to see optical flow in action.
 4. Press ESC to close the program.
@@ -46,7 +46,7 @@ project-3/
 ├── output_optical_flow.png # Screenshot showing tracking output
 └── README.md # This file
 
-text
+
 
 ## Output Screenshot
 
